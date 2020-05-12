@@ -6,3 +6,7 @@ end
 def toadstool
   puts status
 end
+
+def mario
+  puts "It's-a me, Mario!"
+end
